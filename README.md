@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
