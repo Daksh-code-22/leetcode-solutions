@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Daksh-code-22/leetcode-solutions/tree/master/0704-binary-search) |
